@@ -2,7 +2,7 @@
 
 - 🎓 Técnico em informática pelo **IFRN** 
 - 💻 Bacharelando em Ciência da Computação pela **UNP**
-- 🌱 Atualmente estou estudando React JS
+- 🌱 Atualmente estou estudando **React JS**
 
 <div>
   <a href="https://github.com/vi-costa">
