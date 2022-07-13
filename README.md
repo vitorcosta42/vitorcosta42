@@ -6,10 +6,13 @@
 
 <div>
   <a href="https://github.com/vi-costa">
-  <img height="150em"  width = "50%" src="https://github-readme-stats.vercel.app/api?username=vi-costa&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
-(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-  <img height="150em"  width = "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vi-costa&layout=compact&langs_count=7&theme=solarized-dark"/>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 </div>
   
 <div style="display: inline_block"><br>
