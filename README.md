@@ -26,6 +26,6 @@
   <a href="https://www.linkedin.com/in/vitorcosta-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a>
 
-![Snake animation](https://github.com/vi-costa/vitorcosta42/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vitorcosta42/vitorcosta42/blob/output/github-contribution-grid-snake.svg)
 
 </div>
