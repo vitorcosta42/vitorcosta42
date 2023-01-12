@@ -6,9 +6,9 @@
 
 <div>
   <a href="https://github.com/vitorcosta42">
-  <img height="150em" width ="45%" src=" https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vitorcosta42&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" width ="45%" src=" https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vitorcosta42"/>
   <img height="150em" width ="45%"   src="  https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?
-username=vitorcosta42&layout=compact&langs_count=7&theme=solarized-dark"/>
+username=vitorcosta42"/>
 </div>
   
 <div style="display: inline_block"><br>
