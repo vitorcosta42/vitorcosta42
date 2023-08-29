@@ -1,4 +1,5 @@
-### Olá! Eu sou o Vitor 👋😀
+### Olá! Eu sou o Vitor! 👋 
+### Se puder, faça uma visita ao meu <a href="https://vitorcosta.vercel.app">portfólio</a> e aos meus <a href="https://github.com/vitorcosta42?tab=repositories">repositórios!</a> 😀
 
 - 🎓  Técnico em informática pelo **IFRN** 
 - 💻  Bacharelando em Ciência da Computação pela **UNP**
